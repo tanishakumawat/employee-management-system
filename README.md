@@ -83,6 +83,7 @@ The application uses a predefined JavaScript employee dataset and browser LocalS
 
 ## Project Structure
 
+```
 src/
 ├── components/
 │   ├── Avatar.jsx
@@ -109,8 +110,7 @@ src/
 │   └── NotFoundPage.jsx
 ├── App.jsx
 └── main.jsx
-
-*Adjust the file tree if your actual project structure differs.*
+```
 
 ## Future Improvements
 
