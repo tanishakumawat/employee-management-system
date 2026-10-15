@@ -11,6 +11,12 @@ A responsive Employee Management System built with **React, Vite, and Tailwind C
 
 ### Employee Details
 ![Employee Details](public/screenshots/employee-details.png)
+## Project Demo
+
+Watch the complete walkthrough of the Employee Management System, demonstrating its key features and user interface.
+
+**[Watch Employee Management System Demo](https://drive.google.com/file/d/19jVAUZ5fC4RdAyPX9w95Uan1fCsrvJ26/view?usp=drivesdk)**
+
 
 ## Features
 
