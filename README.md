@@ -1,6 +1,16 @@
 # Employee Management System
 
 A responsive Employee Management System built with **React, Vite, and Tailwind CSS**. The application provides an intuitive dashboard for managing employee records with CRUD operations, search, filtering, sorting, pagination, CSV export, and dedicated employee detail pages.
+## Screenshots
+
+### Employee Dashboard
+![Employee Dashboard](public/screenshots/dashboard.png)
+
+### Add or Edit Employee
+![Employee Form](public/screenshots/employee-form.png)
+
+### Employee Details
+![Employee Details](public/screenshots/employee-details.png)
 
 ## Features
 
